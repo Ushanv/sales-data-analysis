@@ -50,13 +50,13 @@ This analysis helps businesses:
 ## 📊 Sample Visualizations
 
 ### Sales by Category
-![Sales](sales_by_category.png)
+![Sales]Sales_by_category.png)
 
 ### Profit by Region
-![Profit](profit_by_region.png)
+![Profit](Profit_by_Region.png)
 
 ### Discount vs Profit
-![Discount](discount_vs_profit.png)
+![Discount](discount  vs profit.png)
 
 ## 🧠 Conclusion
 The project highlights how data-driven insights can improve business decisions by identifying key factors affecting sales and profit.
