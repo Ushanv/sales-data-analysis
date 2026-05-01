@@ -1,16 +1,15 @@
-# Sales Data Analysis Project
+# Sales Data Analysis
 
 ## Objective
-Analyze retail sales data to identify revenue trends, profit drivers, and loss-making areas.
+Analyze retail sales data to identify trends and improve business decisions.
 
 ## Tools Used
 Python, Pandas, Matplotlib
 
 ## Key Insights
-- Technology category generates highest revenue
-- High discounts lead to reduced profitability
-- Certain products consistently incur losses
-- Sales show seasonal patterns across months
+- High discounts reduce profitability
+- Few products generate most revenue
+- Some products consistently cause losses
 
-## Business Impact
-This analysis helps businesses optimize pricing strategies, reduce losses, and improve overall profitability.
+## Conclusion
+Optimizing pricing and focusing on high-performing products can improve business performance.
